@@ -13,7 +13,7 @@
     <server>generic</server>
     <skipTests>true</skipTests>
     <gs.version>2.15.0</gs.version>
-    <gt.version>21.0</gt.version>
+    <gt.version>22.2</gt.version>
     <geofence.version>3.4.2</geofence.version>
     <jetty.version>9.4.12.v20180830</jetty.version>
     <marlin.version>0.9.3</marlin.version>
